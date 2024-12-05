@@ -28,5 +28,10 @@ int main()
 
 	cout << "Answer - x: " << x;
 
+	for (int i = 0; i <= b; ++i)
+	{
+		a += b;
+	}
+
 	return 0;
 }
