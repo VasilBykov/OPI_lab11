@@ -26,7 +26,7 @@ int main()
 		}
 	} while (abs(a - b) > 2 * e);
 
-	cout << "x: " << x;
+	cout << "Answer - x: " << x;
 
 	return 0;
 }
